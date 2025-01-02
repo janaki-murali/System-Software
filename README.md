@@ -2,13 +2,6 @@
 
 Welcome to the **System Software** repository! This repository contains various system software programs implemented in **C**. These programs demonstrate concepts in operating systems and system-level programming, including process scheduling, disk scheduling, memory management, and assembly language processing.
 
-## Table of Contents
-
-- [Programs Included](#programs-included)
-- [Running the Programs](#running-the-programs)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Programs Included
 
 This repository includes the following programs:
